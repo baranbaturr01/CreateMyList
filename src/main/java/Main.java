@@ -37,6 +37,6 @@ public class Main {
 
         // Listeyi tamamen boşaltır ve varsayılan boyutuna çevirir
         liste.clear();
-        System.out.println(liste);
+        System.out.println(liste.toString());
     }
 }
